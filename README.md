@@ -5,7 +5,7 @@ HydroPressPredictor is a Python package designed for forecasting exerted hydrody
 
 - Utilizes an XGBoost model optimized through grid search cross-validation for accurate predictions.
 - Input parameters include Froude number, pier's shape, and channel cross-section geometry.
-- Predicts nondimensional hydrodynamic pressure on a bridge's pier P/ρU₀² (P is Hydrodynamic Pressure (Pa), U₀ is Flow velocity in Channel (m/s), and ρ is Water density which is considered 998.8 (kg/m³)).
+- Predicts nondimensional hydrodynamic pressure on a bridge's pier P/ρU₀² (P is Hydrodynamic Pressure (Pa), U₀ is Flow velocity in Channel (m/s), and ρ is Water density which is considered 998.2 (kg/m³)).
 
 ## Usage
 
