@@ -1,5 +1,5 @@
 # Hydrodynamic Pressure Predictor
-Hydro_Pressure_Predictor is a Python package designed for forecasting exerted hydrodynamic pressure on a bridge's pier using an optimized XGBoost model. It leverages input variables such as the Froude number in the river, the pier's shape (Rectangular or Cylindrical), and channel cross-section geometry (Rectangular or Non-rectangular) to predict hydrodynamic pressure in Pascal. This package has been created by [Saeed Balahang](https://www.linkedin.com/in/saeed-balahang-31b52a207/), a student from Tarbiat Modares University in colaboration with [Dr. Soroush Abolfathi](https://warwick.ac.uk/fac/sci/eng/people/soroush_abolfathi/) and [Seyed Mehran Ahmadi](https://www.linkedin.com/in/s-mehran-ahmadi/?originalSubdomain=ir) 
+HydroPressPredictor is a Python package designed for forecasting exerted hydrodynamic pressure on a bridge's pier using an optimized XGBoost model. It leverages input variables such as the Froude number in the river, the pier's shape (Rectangular or Cylindrical), and channel cross-section geometry (Rectangular or Non-rectangular) to predict hydrodynamic pressure in Pascal. This package has been created by [Saeed Balahang](https://www.linkedin.com/in/saeed-balahang-31b52a207/), a student from Tarbiat Modares University in colaboration with [Dr. Soroush Abolfathi](https://warwick.ac.uk/fac/sci/eng/people/soroush_abolfathi/) and [Seyed Mehran Ahmadi](https://www.linkedin.com/in/s-mehran-ahmadi/?originalSubdomain=ir) 
 
 ## Features
 
@@ -9,7 +9,7 @@ Hydro_Pressure_Predictor is a Python package designed for forecasting exerted hy
 
 ## Usage
 
-To use the Hydrodynamic Pressure Predictor package, follow these steps:
+To use the HydroPressPredictor, follow these steps:
 
 1. Ensure you have Python installed on your system.
 2. Install the required packages by running:
